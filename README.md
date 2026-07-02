@@ -1,4 +1,4 @@
-# SaarthiYantra — Welfare Scheme Discovery Engine
+# Eligify — Welfare Scheme Discovery Engine
 
 An intelligent welfare scheme recommendation platform that helps persons with disabilities in India discover government schemes they are eligible for through rule-based eligibility matching and AI-powered multilingual explanations.
 
@@ -6,7 +6,7 @@ An intelligent welfare scheme recommendation platform that helps persons with di
 
 ## Overview
 
-SaarthiYantra simplifies access to government welfare schemes by matching users with relevant central and state schemes based on their disability profile, income, age, and location. It provides personalized recommendations, AI-generated explanations in multiple languages, downloadable document checklists, and application tracking.
+Eligify simplifies access to government welfare schemes by matching users with relevant central and state schemes based on their disability profile, income, age, and location. It provides personalized recommendations, AI-generated explanations in multiple languages, downloadable document checklists, and application tracking.
 
 ---
 
